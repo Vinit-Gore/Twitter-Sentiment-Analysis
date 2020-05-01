@@ -14,7 +14,7 @@ Install missing dependencies using pip
 
 Once you have your dependencies installed via pip, run the script in terminal via
 
-`python demo.py`
+`python code.py`
 ## Challenge
 
 Instead of printing out each tweet, save each Tweet to a CSV file with an associated label. The label should be either 'Positive' or 'Negative'. You can define the sentiment polarity threshold yourself, whatever you think constitutes a tweet being positive/negative.
