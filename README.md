@@ -21,4 +21,4 @@ Instead of printing out each tweet, save each Tweet to a CSV file with an associ
 
 ## Work Done By Me
 
-The challenge has been succesfully completed. Additionally, it takes input keyword and searches tweets accordingly and thus generates a file named by the same keyword. The threshold for the polarity is zero.
+The challenge has been succesfully completed. Additionally, it takes input keyword and searches related tweets and generates a csv file named by the same keyword. The threshold for the polarity is zero.
